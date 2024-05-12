@@ -193,8 +193,9 @@ a {
 }
 .line
 {
-    width: 90%;
-    height: 30%;
+    width: 80%;
+    margin-top: 10vh;
+    height: 10vh;
     border-top: 1px solid white;
     opacity: 0.4;
 }
